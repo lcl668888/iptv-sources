@@ -459,4 +459,4 @@
 | 453 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 | 454 | CCTV-14 少儿 (1080p) | ctrl.laotv.la | <https://ctrl.laotv.la/live/CCTV14/index.m3u8> |
 
-Updated at **Sat Feb 03 2024 00:53:27 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Feb 03 2024 02:15:18 GMT+0000 (Coordinated Universal Time)**
