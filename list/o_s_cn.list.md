@@ -478,4 +478,4 @@
 | 472 | Fuping TV-2 | IPv4 直链 | <http://124.47.34.188:80/wh7f454c46tw1412774635_659925561/PLTV/88888888/224/3221225906/index.m3u8?icpid=88888888&RTS=1640099099&from=1&hms_devid=203> |
 | 473 | Fusung News TV | 吉林广播电视台 | <http://stream8.jlntv.cn/fs/sd/live.m3u8> |
 
-Updated at **Tue Feb 20 2024 06:16:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Feb 20 2024 08:15:09 GMT+0000 (Coordinated Universal Time)**
