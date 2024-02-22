@@ -239,7 +239,6 @@ Alhaqeqa Aldawlia (1080p),https://ghaasiflu.online/alhqeqa/index.m3u8
 Alhayat TV (720p),https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
 Alhiwar TV (1080p) [Not 24/7],https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 Alien Nation (1080p),https://lnc-alien-nation.tubi.video/playlist.m3u8
-Aliman TV (240p) [Not 24/7],https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
 Alistiqama TV (576p),https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 Alkerazatv (720p),https://hwlive.streamingmediahosting.com/14221-live/0_ahgiewbd/playlist.m3u8
 All The K-POP (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCPde4guD9yFBRzkxk2PatoA.m3u8
@@ -293,7 +292,6 @@ Antena 91 (720p),https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
 Antena Seis TV (720p),http://inliveserver.com:1935/14510/14510/playlist.m3u8
 Antena Uno RadioVideo (360p),https://tvdatta.com:3578/live/antenaunolive.m3u8
 Antenne Réunion (720p) [Not 24/7],https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
-ANTV (1080p),https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 Anzoátegui TV (360p),https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 Aomori TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCdNYphHZdRYjpys_gwofUNQ.m3u8
 AP1 TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCFlPB2adH_uHaJfUCODTdrQ.m3u8
@@ -1096,7 +1094,6 @@ Dresden Fernsehen (1080p) [Not 24/7],https://dresden.iptv-playoutcenter.de/dresd
 DRT Denizli (720p),https://edge1.socialsmart.tv/drttv/bant1/playlist.m3u8
 DRTV (TV Avisen) (720p),https://drevent01hls.akamaized.net/hls/live/2014198/drevent01/master.m3u8
 DryBar Comedy,https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
-Drybar Comedy,https://drybar-drybarcomedy-1-nz.samsung.wurl.tv/playlist.m3u8
 DTV (720p) [Not 24/7],http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
 DTV Oss & Bernheze (1080p),https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv1&output=playlist.m3u8&protocol=https&service=wowza&type=live
 Dua Channel (720p),https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
@@ -1419,7 +1416,6 @@ GOOD TV CH49 祷告频道 (720p) [Not 24/7],https://live.streamingfast.net/osmfl
 GOOD TV CH50 国际讲员 中文发音 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech50.m3u8
 Goodness TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UCvSkU6Ut85o2B34fD5F1Fyw.m3u8
 Gospel (720p),https://origin3.afxp.telemedia.co.za/PremiumFree/gospellife/playlist.m3u8
-GoTV (576p) [Not 24/7],https://nstream17.gotv.at:1443/live/gotvlive/manifest.mpd
 GPR TV (720p),https://wowza.convergen.co/gprtv/myLive/playlist.m3u8
 Grand Cinema,https://gcinemahls.wns.live/hls/stream.m3u8
 Grand Genève TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCXFfYlxx1CDljLyXwXFbL1A.m3u8
@@ -1781,7 +1777,6 @@ KienGiangTV1 (1080p),https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 KienGiangTV (1080p),https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 Kiss Kiss Napoli TV (720p),https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 Kiss Kiss TV (1080p),https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
-KISS TV,https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kiss-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/kiss
 KITE Victers (Kerala) (720p) [Not 24/7],https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 KITV 4 Island News (720p),https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8
 KKRtv (720p) [Not 24/7],http://stream.kkr.dk/live/kkr/playlist.m3u8
@@ -1981,7 +1976,6 @@ Marsh TV (720p) [Not 24/7],http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
 Martinique la 1ère (720p) [Not 24/7],https://ythls.armelin.one/channel/UCgA9V57lQlZFXkDfhVGTWSg.m3u8
 Marvisión TV (720p),https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
 Más Chic,http://stream.flynetwifi.com:1935/live/mobile-146/playlist.m3u8
-Más TV (720p) [Not 24/7],https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8
 Mashriq TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UC9SCoYKptExLJRyYS3hkLxg.m3u8
 MasMusica FM (720p),https://movil.ejeserver.com/live/masmusica.m3u8
 Master's TV (720p),https://mn-nl.mncdn.com/commectv_live/masterstv/index.m3u8
@@ -2035,7 +2029,6 @@ Medjugorje Italia TV (480p),https://5f22d76e220e1.streamlock.net/medjugorjeitali
 Meer TV (720p) [Not 24/7],https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8
 Mega (480p),https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 MEGA TV (720p),https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
-Mega TV (720p) [Not 24/7],https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 Mega TV Arequipa (720p) [Not 24/7],https://hls.servidor.stream/storage/megatv.m3u8
 Mega TV Jaen (720p) [Not 24/7],https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 MegaTV (480p),https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
@@ -2081,7 +2074,6 @@ Misión ELTV (360p),https://paz.sytes.net:5443/live/streams/misioneltv.m3u8
 Misión Vida TV (720p),https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/playlist.m3u8
 Mission Asia (1080p),https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8
 MITV (480p),http://183.89.246.119:8881/play/a07r/index.m3u8
-MiTV (720p),https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 MIX (720p) [Not 24/7],https://ythls.armelin.one/channel/UCyqo8U-nWSCHyxWnI8zbQyA.m3u8
 MK Six (576p) [Not 24/7],http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 MK Tunes (576p) [Not 24/7],http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
@@ -2169,7 +2161,6 @@ Mytime Movies (1080p),https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u
 myTV San Antonio TX (KCWX-TV) (720p) [Not 24/7],http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 MYX Philippines (720p),https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 Myzen Fit,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungse/playlist.m3u8
-MYZen Fit,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungnl/playlist.m3u8
 Myzen TV,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8
 n TV (US Eastern) (720p) [Not 24/7],https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0500/c.m3u8
 Nablus TV (720p) [Not 24/7],http://htvmada.mada.ps:8888/nabluslive/index.m3u8
@@ -2287,7 +2278,6 @@ Nopola News (1080p) [Not 24/7],https://virta2.nopolanews.fi:8443/live/smil:Strea
 Noroc TV (576p) [Not 24/7],http://live.noroc.tv/hls/noroctv_chisinau.m3u8
 Noroeste TV (1080p) [Not 24/7],https://cloudvideo.servers10.com:8081/8032/index.m3u8
 NorSelva RTV (720p) [Not 24/7],https://live.obslivestream.com/norselvatv/index.m3u8
-NORTEvisión (1080p),http://amaru.dyndns.org:8870/0.m3u8
 Northeast Live (720p),https://5b48d7e1b4bce.streamlock.net/myapp/mbrstream/playlist.m3u8
 Nos Païs (720p) [Not 24/7],http://highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
 Notele (576p) [Not 24/7],https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
@@ -2537,7 +2527,6 @@ Pluto TV Empeños a lo bestia (720p) [Not 24/7],https://service-stitcher.cluster
 Pluto TV EN DIRECTO EN VIVO (720p),https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=a6f8
 Pluto TV Explore (720p),https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9b8551b95267e225e59c1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 Pluto TV FashionBox (720p),https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-Pluto TV Fashionbox (720p),https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 Pluto TV Fifth Gear (720p) [Not 24/7],https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1de9208ee5378be82db3b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 Pluto TV Food (720p),https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc280c9aa218c0009724b4b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5dc280c9aa218c0009724b4b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=0734c282-0583-11eb-a18c-0242ac110002&terminate=false&userId=
 Pluto TV Get.factual (720p) [Not 24/7],https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2a69bc928a600093a7976/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -3063,7 +3052,6 @@ Seenluft24 (1080p),https://h056.video-stream-hosting.de/easycast7-live/_definst_
 Semarang TV (720p),http://116.254.112.74/hls/cakralive.m3u8
 Semerkand TV (1080p) [Not 24/7],https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 Sen TV (480p),https://live3.acangroup.org:1929/acanabr/sentv.stream_all/playlist.m3u8
-SEN TV (720p) [Not 24/7],https://ythls.armelin.one/channel/UC3p-0EWA8OXko2EUDUXAy5w.m3u8
 Señal Perú TV (404p) [Not 24/7],https://livestream.perucast.com/hls/stream.m3u8
 Sender Neu Jerusalem (576p),https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8
 Senillosa TV (360p),https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
@@ -3881,7 +3869,6 @@ TVM3 (1080p),https://edge.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 TVM Channel,https://cdn-01.bonus-tv.ru/tvm_edge/playlist.m3u8
 TVM Córdoba (1080p) [Not 24/7],http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
 TVMás (720p),https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
-TVMÁS (XHGV-TDT) (360p) [Not 24/7],https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 TVMatic Crafts (720p),http://cdn.tvmatic.net/crafts.m3u8
 TVMatic Facebook (720p),http://cdn.tvmatic.net/facebook.m3u8
 TVMatic Funny (720p),http://cdn.tvmatic.net/funny.m3u8
@@ -3890,7 +3877,6 @@ TVMAXCBA (720p),https://panel.dattalive.com/8976/8976/playlist.m3u8
 TVN Brasil (720p) [Not 24/7],http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
 TVN Global (720p),https://tvlatina.live:1936/8006/8006/playlist.m3u8
 TVNET (360p),https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
-TVnet (720p),https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 TVO (720p),https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/index.m3u8?DVR=
 TVO Canal 23,http://stream.flynetwifi.com:1935/live/mobile-071/playlist.m3u8
 TVO San Vicente (720p) [Not 24/7],https://5e3483cba9114.streamlock.net/8014/8014/playlist.m3u8
@@ -3989,7 +3975,6 @@ Uppera Balkan (720p),http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
 Uranio TV (Yurimaguas) (720p) [Not 24/7],https://live.obslivestream.com/uraniotv/index.m3u8
 Urban Action Channel,https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/0YRJL9FV095EDJ1JBBI6/hls3/now_-1m_15s/m.m3u8
 Urban TV (576p),https://stream.hydeinnovations.com/urban-flussonic/index.m3u8
-USA | Español,http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8
 Usee Prime (720p),https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 UStad (1080p),http://media.rtvutrecht.nl/live/rtvutrecht/ustad/index.m3u8
 UTN TV (480p),https://stream.arcast.com.ar/utntv/utntv/playlist.m3u8
@@ -4710,12 +4695,10 @@ like Gecko) Mobile/15E148",ՏՈՒՆՏՈՒՆԻԿ [U5] (480p),http://ott-cdn.ucom.
 浙江 Ⅰ 绍兴综合 (576p),http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 浙江公共 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 浙江卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
-浙江国际 (1080p),https://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江影视 (720p),https://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8
 浙江教科影视 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江数码时代 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江民生休闲 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江留学 (1080p) [Not 24/7],https://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
 浙江钱江 (1080p),https://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 海南卫视 (720p) [Not 24/7],http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e
 海南州藏语频道 (480p),http://live.hnzzzzzdst.com/channel1/sd/live.m3u8
@@ -5240,7 +5223,6 @@ DanmarkC TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UC582CKg7XN_ELM
 Daru TV (720p),https://5cd03f21c7193.streamlock.net/darutv/darutvlive/playlist.m3u8
 Deen TV (576p) [Not 24/7],https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 Delta TV (480p) [Not 24/7],https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
-DELTA TV (720p),http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
 Demais TV (720p),https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 DesheBideshe TV (720p),https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8
 Despierta TV (1080p) [Not 24/7],https://video2.lhdserver.es/despiertatv/live.m3u8
@@ -5865,14 +5847,12 @@ Telemetro (720p) [Not 24/7],https://mdstrm.com/live-stream-playlist/5d88dd2229b0
 Telenorte (720p),https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
 TelePaks (396p),https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8
 Telepasto (360p),https://hvtraficonew.ddns.net/telepasto/telepasto.stream/index.m3u8
-TeleRama (576p),https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
 Telered (720p),https://video20.klm99.com:3558/hybrid/play.m3u8
 Teleromagna (480p),https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
 Telesangil (720p) [Not 24/7],https://hvtraficonew.ddns.net/tvsangil/tvsangil/index.m3u8
 Telesirio Web TV (240p),https://www.telesirio.it/live/stream.m3u8
 Telesol (720p) [Not 24/7],https://vcp2.myplaytv.com/telesol/telesol/playlist.m3u8
 Telestense (720p),https://5e73cf528f404.streamlock.net/TeleEstense/livestream/playlist.m3u8
-Telesud (720p),https://webtv.pugliaservice.it:1936/telesud-webtv/telesud-webtv/playlist.m3u8
 Telesur Tacna (720p) [Not 24/7],https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
 Televallo (576p),https://5cbd3bc28341f.streamlock.net:444/televallo/live/playlist.m3u8
 Televilla (720p) [Not 24/7],https://cp.panelchs.com:1936/8060/8060/playlist.m3u8
@@ -6148,7 +6128,6 @@ VIVOplay (576p),https://linear-260.frequency.stream/mt/studio/260/hls/master/pla
 Vizion Plus (1080p),https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
 Völgyhíd TV (540p),https://5cd03f21c7193.streamlock.net/volgyhidtv/mediakft/playlist.m3u8
 VOS TV (720p),https://d1ivuiwceej7mo.cloudfront.net/nlpo/clr-nlpo/vostv/index.m3u8
-Vos TV (720p) [Not 24/7],http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8
 VRT Radio 1 (720p),https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8
 VRT Radio 2 (720p),https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.m3u8
 VTV Canal 32 (1080p),https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
@@ -6542,7 +6521,6 @@ PTC Music (720p),https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/play
 Public Music (576p) [Not 24/7],http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 Q-Music (1080p),https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls.m3u8
 Qello Concerts by Stingray (1080p),https://lotus.stingray.com/manifest/qello-qello001-montreal/live/master.m3u8
-Qmusic (720p),https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 Qwest TV Jazz & Beyond (720p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
 Qwest TV Mix (720p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8
 QwestTV,https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
@@ -6758,7 +6736,6 @@ News,#genre#
 2GB Sydney (1080p),https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 3/24 (1080p),https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 4DmásNoticias TV (1080p) [Not 24/7],https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
-5 Канал,http://portal.ott.pink/watch/7/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 6PR Perth (1080p),https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
 24/7 Canal de Noticias (720p),https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
 24KZ (720p) [Not 24/7],http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
@@ -7355,7 +7332,6 @@ TeleCauquenes (720p),https://vdo.panelstreaming.live:3401/hybrid/play.m3u8
 Telefe Noticias (720p) [Not 24/7],https://siloh-mcdn.plutotv.net/lilo/production/LATAM/Telefe/master.m3u8
 Telegela 647 (720p),http://live.sloode.com:1935/qdg_live/AF74-FF2C-7350-41F2/playlist.m3u8
 Telejato (720p),https://telejato.liberotratto.com/hls/0/stream.m3u8
-TeleSUR (1080p),https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
 TeleSUR English (1080p) [Not 24/7],https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur_eng.m3u8
 Televideo Regional (480p),https://inliveserver.com:1936/8050_1/8050_1/playlist.m3u8
 Televisión del Este (720p),http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8=
@@ -7424,7 +7400,6 @@ VBC News (576p),https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8
 Venad News (360p),https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8
 Vísir (1080p),https://live.visir.is/hls-live/visir.smil/playlist.m3u8
 VNP,https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
-VoA Persian,https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 VOA TV Africa (1080p),https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 Voice News (720p),https://cdn.bmstudiopk.com/vop/live/playlist.m3u8
 Vouli TV (1080p) [Not 24/7],https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
@@ -7510,7 +7485,6 @@ Balkan Radio Salzburg (480p),https://channel.streams.ovh:1936/balkanradiosalzbur
 BEN Television (576p),https://webstreaming-11.viewmedia.tv/web_153/Stream/playlist.m3u8
 BiswaBangla 24 (720p) [Not 24/7],https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/playlist.m3u8
 bitMe (576p),https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
-BIZ TV (1080p),https://st.biztv.uz/hls/stream_hi/index.m3u8
 Blaze (720p),https://live.blaze.tv/live7/blaze/bitrate1.isml/live.m3u8
 Boishakhi TV Plus (1080p) [Not 24/7],https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhiplus.stream/playlist.m3u8
 Bonches Latinos TV (720p),https://ss5.domint.net:3172/btv_str/bonchestv/playlist.m3u8
@@ -7735,7 +7709,6 @@ TBD. (720p),https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.
 TDM Entertainment Ch. 95 (720p),https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 Tele Boston (480p),http://rtb.srfms.com:3333/live/telebostonrtb/playlist.m3u8
 Teledigital (240p) [Not 24/7],https://tv.portalexpress.es:3182/hybrid/play.m3u8
-TeleMIX (720p),https://haititivi.com/haiti/telemix1/index.m3u8
 Telemundo Corpus Christi,https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 Teleplay Sureste (720p),https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
 Telerayo (1080p),https://s.emisoras.tv:8081/telerayo/index.m3u8
@@ -7836,7 +7809,6 @@ Comedy Dynamics,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenter
 Comedy Play (720p),https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
 Distrito Comedia (576p),https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 Failarmy,https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
-FailArmy,https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8
 Fora Tédio TV (720p) [Not 24/7],http://stream.foratedio.com/foratedio/foratedio/playlist.m3u8
 Funny or Die (720p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8
 Humor Max (720p) [Not 24/7],http://vcpar.myplaytv.com/humormax/live/playlist.m3u8
@@ -8013,7 +7985,6 @@ TVG Mociñ@s (720p),https://xabarintv-r3-crtvg.flumotion.com/playlist.m3u8
 TVG Pequerrech@s (720p),https://xabarintv-r1-crtvg.flumotion.com/playlist.m3u8
 TVS Hi Tops (720p),https://rpn1.bozztv.com/36bay2/gusa-hitops/index.m3u8
 TVS Pinball Network (480p),https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
-Zoo Moo (Australia) (1080p),https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 В Гостях у сказки (1080p),https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
 Детский мир,http://stream01.vnet.am/CartoonNetwork/mono.m3u8
 Карусель,http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
@@ -8029,7 +8000,6 @@ like Gecko) Mobile/15E148",Рыжий (480p),http://ott-cdn.ucom.am/s57/index.m3
 Тамыр (Уфа) (576p),https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 УТРК Баластан (480p) [Not 24/7],https://st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8
 山东少儿 (406p),http://livealone302.iqilu.com/iqilu/sepd.m3u8
-浙江少儿 (1080p),https://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
 Lifestyle,#genre#
 13 Prime (720p),https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
@@ -8314,7 +8284,6 @@ Filmeraa (720p),https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8
 Filmex (Xumo) (1080p),https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
 Filmex Clásico (1080p),https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 Filmrise Forensic Files (720p),https://lnc-forensic-files.tubi.video/index.m3u8
-FilmRise Forensic Files (XUMO) (432p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
 FilmRise Free Movies (Redbox) (720p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
 FilmRise Sci-Fi Finland,https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d658fce8-d72e-4407-ba5b-14b823553af5/5.m3u8
 Filmrise True Crime (720p),https://lnc-filmrise-true-crime.tubi.video/index.m3u8
@@ -8632,7 +8601,6 @@ Pluto TV Documentaries (720p),https://service-stitcher.clusters.pluto.tv/stitch/
 Pluto TV Documentary Italy (720p),https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 Pluto TV Forensic Files en ESP (720p),https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e94cd036cc69d0007e8a1ba&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=933&terminate=false&userId=
 Pluto TV HISTORY (720p),https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767b1c126c65d0a307355f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d767b1c126c65d0a307355f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=52e8f9a9-0583-11eb-97af-0242ac110002&terminate=false&userId=
-Pluto TV History (Germany) (720p),https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767b1c126c65d0a307355f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d767b1c126c65d0a307355f&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=302&terminate=false&userId=
 Pluto TV Inside (720p),https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed3892ed7bb000741a1d2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
 Pluto TV Investiga (720p),https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96b8f4f1ca3f0629f4bf1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=936&terminate=false&userId=
 Pluto TV Investigação (720p),https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -8935,7 +8903,6 @@ El-Roi TV (720p),https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8
 Elbeshara GTV (1080p) [Not 24/7],http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
 Elevate TV (720p) [Not 24/7],https://goliveafrica.media:9998/live/64a98a7eac12a/index.m3u8
 Eman Channel (576p),https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
-Enlace,https://livecdn.enlace.plus/enlace/smil:enlace-fhd.smil/playlist.m3u8
 Enlace Juvenil (720p),https://11554-1.b.cdn13.com/EJTV/smil:ejtv-hd.smil/playlist.m3u8
 Ère TV (1080p),https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8
 Erfan Halgheh TV (720p),https://hls.erfanhalgheh.live/hls/stream.m3u8
@@ -9748,7 +9715,6 @@ TPT Now KTCA-DT5 (720p) [Not 24/7],https://api.new.livestream.com/accounts/12638
 WeatherNation (720p),https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
 Weathernews (1080p),https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
 Weatherspy,https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
-WeatherSpy,https://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8
 
 Animation,#genre#
 ADN TV+ (1080p) [Geo-Blocked],https://samsunguk-adn-samsung-fre-qfrlc.amagi.tv/playlist/samsunguk-adn-samsung-fre/playlist.m3u8
