@@ -477,5 +477,7 @@
 | 471 | Fuping TV-1 | IPv4 直链 | <http://124.47.34.189:80/wh7f454c46tw749339647_705237419/PLTV/88888888/224/3221225905/index.m3u8?icpid=88888888&RTS=1640046896&from=1&hms_devid=203> |
 | 472 | Fuping TV-2 | IPv4 直链 | <http://124.47.34.188:80/wh7f454c46tw1412774635_659925561/PLTV/88888888/224/3221225906/index.m3u8?icpid=88888888&RTS=1640099099&from=1&hms_devid=203> |
 | 473 | Fusung News TV | 吉林广播电视台 | <http://stream8.jlntv.cn/fs/sd/live.m3u8> |
+| 474 | Lasa TV | IPv4 直链 | <http://220.182.45.198:20088/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 475 | Xizang TV Tibetan | IPv4 直链 | <http://220.182.45.198:20088/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Wed Feb 28 2024 22:11:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 29 2024 00:53:24 GMT+0000 (Coordinated Universal Time)**
