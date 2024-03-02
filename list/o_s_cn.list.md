@@ -487,4 +487,4 @@
 | 481 | Xinjiang TV 3 | IPv4 直链 | <http://106.124.90.74:8888/udp/238.125.7.147:5140> |
 | 482 | Xinjiang TV 2 | IPv4 直链 | <http://106.124.90.74:8888/udp/238.125.3.175:5140> |
 
-Updated at **Sat Mar 02 2024 08:13:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 02 2024 10:11:28 GMT+0000 (Coordinated Universal Time)**
