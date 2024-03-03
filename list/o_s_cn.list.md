@@ -486,5 +486,7 @@
 | 480 | Xinjiang TV 5 | IPv4 直链 | <http://106.124.90.74:8888/udp/238.125.7.149:5140> |
 | 481 | Xinjiang TV 3 | IPv4 直链 | <http://106.124.90.74:8888/udp/238.125.7.147:5140> |
 | 482 | Xinjiang TV 2 | IPv4 直链 | <http://106.124.90.74:8888/udp/238.125.3.175:5140> |
+| 483 | BRTV Kaku Childrens Channel [Not 24/7] | office.gofaraway.top:888 | <http://office.gofaraway.top:888/udp/238.125.2.216:5140> |
+| 484 | Sichuan Kangba Tibetan TV | IPv4 直链 | <http://220.182.45.198:20088/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Sat Mar 02 2024 22:11:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Mar 03 2024 00:56:29 GMT+0000 (Coordinated Universal Time)**
