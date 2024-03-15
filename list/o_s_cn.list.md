@@ -514,4 +514,4 @@
 | 508 | 山西法治 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/54/live.m3u8> |
 | 509 | 山西文体 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8> |
 
-Updated at **Fri Mar 15 2024 16:15:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 15 2024 18:16:14 GMT+0000 (Coordinated Universal Time)**
