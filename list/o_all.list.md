@@ -1204,7 +1204,7 @@
 | 1198 | BRT 2 (720p) [Not 24/7] | sc-kuzeykibrissmarttv.ercdn.net | <https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8> |
 | 1199 | BRT (360p) | IPv4 直链 | <http://113.163.216.23:1935/live/ngrp:tv2.stream_all/playlist.m3u8> |
 | 1200 | BRTV (720p) | live.artidijitalmedya.com | <https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8> |
-| 1201 | BRTV Kaku Childrens Channel [Not 24/7] | office.gofaraway.top:888 | <http://office.gofaraway.top:888/udp/238.125.2.216:5140> |
+| 1201 | BRTV Kaku Childrens Channel | IPv4 直链 | <http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8> |
 | 1202 | Bruno Masi TV (720p) | rds3.desdeparaguay.net | <https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8> |
 | 1203 | BS Asahi (544p) | cdns.jp-primehome.com:8000 | <http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03> |
 | 1204 | BS Fuji TV (544p) | cdns.jp-primehome.com:8000 | <http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06> |
@@ -9950,4 +9950,4 @@
 | 9944 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 9945 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Mon Mar 18 2024 22:11:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 19 2024 00:54:08 GMT+0000 (Coordinated Universal Time)**
