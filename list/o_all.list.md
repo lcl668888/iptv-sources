@@ -6696,7 +6696,7 @@
 | 6690 | San Ignacio TV (720p) | amixtv.live:3753 | <https://amixtv.live:3753/live/sitvlive.m3u8> |
 | 6691 | San Isidro TV (720p) [Not 24/7] | rdn.essastream.com:3160 | <https://rdn.essastream.com:3160/live/sanisidrotvlive.m3u8> |
 | 6692 | San José TV (1080p) | rtmp.info | <https://rtmp.info/sanjosetv/envivo/playlist.m3u8> |
-| 6693 | San Marino RTV (720p) | d2hrvno5bw6tg2.cloudfront.net | <https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8> |
+| 6693 | San Marino RTV (720p) | d2hrvno5bw6tg2.cloudfront.net | <https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8> |
 | 6694 | San Marino RTV Sport (720p) | d2hrvno5bw6tg2.cloudfront.net | <https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8> |
 | 6695 | San Pedro TV (1080p) [Not 24/7] | iptv.ixfo.com.ar:30443 | <https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8> |
 | 6696 | San Vito Televisión (720p) | stmv.streamingvip.click | <https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8> |
@@ -9995,4 +9995,4 @@
 | 9989 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 9990 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Mon Apr 08 2024 22:13:39 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Apr 09 2024 00:55:13 GMT+0000 (Coordinated Universal Time)**
