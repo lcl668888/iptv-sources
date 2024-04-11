@@ -516,4 +516,4 @@
 | 510 | Ando TV (576p) | IPv4 直链 | <http://119.1.122.186:4022/rtp/238.255.2.189:5999> |
 | 511 | Liangshan TV [Not 24/7] | IPv4 直链 | <http://118.122.2.29:9999/hls/47/index.m3u8> |
 
-Updated at **Thu Apr 11 2024 18:15:16 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Apr 11 2024 20:12:30 GMT+0000 (Coordinated Universal Time)**
