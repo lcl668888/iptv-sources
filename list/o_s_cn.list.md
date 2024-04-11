@@ -514,5 +514,6 @@
 | 508 | 山西法治 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/54/live.m3u8> |
 | 509 | 山西文体 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8> |
 | 510 | Ando TV (576p) | IPv4 直链 | <http://119.1.122.186:4022/rtp/238.255.2.189:5999> |
+| 511 | Liangshan TV [Not 24/7] | IPv4 直链 | <http://118.122.2.29:9999/hls/47/index.m3u8> |
 
-Updated at **Wed Apr 10 2024 22:13:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Apr 11 2024 00:55:44 GMT+0000 (Coordinated Universal Time)**
