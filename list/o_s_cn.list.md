@@ -479,42 +479,35 @@
 | 473 | Fusung News TV | 吉林广播电视台 | <http://stream8.jlntv.cn/fs/sd/live.m3u8> |
 | 474 | Lasa TV | IPv4 直链 | <http://220.182.45.198:20088/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 475 | Xizang TV Tibetan | IPv4 直链 | <http://220.182.45.198:20088/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 476 | Nei Monggol TV | IPv4 直链 | <http://106.124.90.74:8888/udp/238.125.7.93:5140> |
-| 477 | Xinjiang TV 12 | IPv4 直链 | <http://106.124.90.74:8888/udp/238.125.3.185:5140> |
-| 478 | Xinjiang TV 9 | IPv4 直链 | <http://106.124.90.74:8888/udp/238.125.7.153:5140> |
-| 479 | Xinjiang TV 8 | IPv4 直链 | <http://106.124.90.74:8888/udp/238.125.3.181:5140> |
-| 480 | Xinjiang TV 5 | IPv4 直链 | <http://106.124.90.74:8888/udp/238.125.7.149:5140> |
-| 481 | Xinjiang TV 3 | IPv4 直链 | <http://106.124.90.74:8888/udp/238.125.7.147:5140> |
-| 482 | Xinjiang TV 2 | IPv4 直链 | <http://106.124.90.74:8888/udp/238.125.3.175:5140> |
-| 483 | BRTV Kaku Childrens Channel [Not 24/7] | office.gofaraway.top:888 | <http://office.gofaraway.top:888/udp/238.125.2.216:5140> |
-| 484 | Sichuan Kangba Tibetan TV | IPv4 直链 | <http://220.182.45.198:20088/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 485 | 浙江新闻 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8> |
-| 486 | 浙江教科 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8> |
-| 487 | 之江纪录 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8> |
-| 488 | 浙江民生 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8> |
-| 489 | 浙江经济 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8> |
-| 490 | 河北经济 | IPv4 直链 | <http://121.19.134.246:808/hls/20/index.m3u8> |
-| 491 | 河北都市 | IPv4 直链 | <http://121.19.134.246:808/hls/21/index.m3u8> |
-| 492 | 河北影视 | IPv4 直链 | <http://121.19.134.246:808/hls/22/index.m3u8> |
-| 493 | 少儿科教 | IPv4 直链 | <http://121.19.134.246:808/hls/23/index.m3u8> |
-| 494 | 河北公共 | IPv4 直链 | <http://121.19.134.246:808/hls/24/index.m3u8> |
-| 495 | 石家庄都市 | 燕赵名城网 | <http://pluslive1.sjzntv.cn/dushi/playlist.m3u8> |
-| 496 | 石家庄生活 | 燕赵名城网 | <http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8> |
-| 497 | 石家庄娱乐 | 燕赵名城网 | <http://pluslive1.sjzntv.cn/yule/playlist.m3u8> |
-| 498 | 邯郸科教 | 冀云 | <https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8> |
-| 499 | 邯郸新闻 | 冀云 | <https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8> |
-| 500 | 邯郸公共 | 冀云 | <https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8> |
-| 501 | 邢台综合 | IPv4 直链 | <http://222.223.119.21:8888/newlive/live/hls/54/live.m3u8> |
-| 502 | 邢台城生 | IPv4 直链 | <http://222.223.119.21:8888/newlive/live/hls/55/live.m3u8> |
-| 503 | 丰宁综合 | 冀云 | <https://jwliveqxzb.hebyun.com.cn/fengningzonghe/fengningzonghe.m3u8> |
-| 504 | 任丘文娱 | 冀云 | <https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8> |
-| 505 | 兴隆综合 | 冀云 | <https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8> |
-| 506 | 山西经济 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/52/live.m3u8> |
-| 507 | 山西影视 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/53/live.m3u8> |
-| 508 | 山西法治 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/54/live.m3u8> |
-| 509 | 山西文体 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8> |
-| 510 | Ando TV (576p) | IPv4 直链 | <http://119.1.122.186:4022/rtp/238.255.2.189:5999> |
-| 511 | Liangshan TV [Not 24/7] | IPv4 直链 | <http://118.122.2.29:9999/hls/47/index.m3u8> |
-| 512 | CCTV4K | IPv4 直链 | <http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8> |
+| 476 | Sichuan Kangba Tibetan TV | IPv4 直链 | <http://220.182.45.198:20088/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 477 | 浙江新闻 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8> |
+| 478 | 浙江教科 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8> |
+| 479 | 之江纪录 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8> |
+| 480 | 浙江民生 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8> |
+| 481 | 浙江经济 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8> |
+| 482 | 河北经济 | IPv4 直链 | <http://121.19.134.246:808/hls/20/index.m3u8> |
+| 483 | 河北都市 | IPv4 直链 | <http://121.19.134.246:808/hls/21/index.m3u8> |
+| 484 | 河北影视 | IPv4 直链 | <http://121.19.134.246:808/hls/22/index.m3u8> |
+| 485 | 少儿科教 | IPv4 直链 | <http://121.19.134.246:808/hls/23/index.m3u8> |
+| 486 | 河北公共 | IPv4 直链 | <http://121.19.134.246:808/hls/24/index.m3u8> |
+| 487 | 石家庄都市 | 燕赵名城网 | <http://pluslive1.sjzntv.cn/dushi/playlist.m3u8> |
+| 488 | 石家庄生活 | 燕赵名城网 | <http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8> |
+| 489 | 石家庄娱乐 | 燕赵名城网 | <http://pluslive1.sjzntv.cn/yule/playlist.m3u8> |
+| 490 | 邯郸科教 | 冀云 | <https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8> |
+| 491 | 邯郸新闻 | 冀云 | <https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8> |
+| 492 | 邯郸公共 | 冀云 | <https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8> |
+| 493 | 邢台综合 | IPv4 直链 | <http://222.223.119.21:8888/newlive/live/hls/54/live.m3u8> |
+| 494 | 邢台城生 | IPv4 直链 | <http://222.223.119.21:8888/newlive/live/hls/55/live.m3u8> |
+| 495 | 丰宁综合 | 冀云 | <https://jwliveqxzb.hebyun.com.cn/fengningzonghe/fengningzonghe.m3u8> |
+| 496 | 任丘文娱 | 冀云 | <https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8> |
+| 497 | 兴隆综合 | 冀云 | <https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8> |
+| 498 | 山西经济 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/52/live.m3u8> |
+| 499 | 山西影视 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/53/live.m3u8> |
+| 500 | 山西法治 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/54/live.m3u8> |
+| 501 | 山西文体 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8> |
+| 502 | BRTV Kaku Childrens Channel | IPv4 直链 | <http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8> |
+| 503 | Ando TV (576p) | IPv4 直链 | <http://119.1.122.186:4022/rtp/238.255.2.189:5999> |
+| 504 | Liangshan TV [Not 24/7] | IPv4 直链 | <http://118.122.2.29:9999/hls/47/index.m3u8> |
+| 505 | CCTV4K | IPv4 直链 | <http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8> |
 
-Updated at **Wed May 15 2024 20:15:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed May 15 2024 22:13:54 GMT+0000 (Coordinated Universal Time)**
