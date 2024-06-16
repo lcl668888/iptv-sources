@@ -510,4 +510,4 @@
 | 504 | Liangshan TV [Not 24/7] | IPv4 直链 | <http://118.122.2.29:9999/hls/47/index.m3u8> |
 | 505 | CCTV4K | IPv4 直链 | <http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8> |
 
-Updated at **Sat Jun 15 2024 22:13:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jun 16 2024 01:05:34 GMT+0000 (Coordinated Universal Time)**
