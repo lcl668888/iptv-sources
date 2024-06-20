@@ -9641,21 +9641,21 @@
 | 9635 | Наше ТВ (Витебск) (576p) | IPv4 直链 | <http://95.46.208.8:26259/nashe> |
 | 9636 | НВК Саха (1080p) [Not 24/7] | live-saha.cdnvideo.ru | <https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8> |
 | 9637 | Небеса ТВ7 (720p) | vod.tv7.fi | <https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8> |
-| 9638 | Неизвестная Россия | cdn.ntv.ru | <http://cdn.ntv.ru/unknown_russia/playlist.m3u8> |
+| 9638 | Неизвестная Россия | cdn.ntv.ru | <https://cdn.ntv.ru/unknown_russia/playlist.m3u8> |
 | 9639 | Нижний Новгород 24 | vgtrkregion-reg.cdnvideo.ru | <https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-hd/index.m3u8> |
 | 9640 | Ника ТВ (576p) [Not 24/7] | live-nikatv.cdnvideo.ru | <https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8> |
 | 9641 | Новое телевидение (576p) [Not 24/7] | serv25.vintera.tv:8081 | <http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8> |
 | 9642 | Ностальгия | edge02.odtv.az | <https://edge02.odtv.az/o3/nostalgiya/playlist.m3u8> |
-| 9643 | НТВ | cdn.ntv.ru | <http://cdn.ntv.ru/ntv0/playlist.m3u8> |
-| 9644 | НТВ +1 | cdn.ntv.ru | <http://cdn.ntv.ru/ntv1/playlist.m3u8> |
-| 9645 | НТВ +2 | cdn.ntv.ru | <http://cdn.ntv.ru/ntv2/playlist.m3u8> |
-| 9646 | НТВ +4 | cdn.ntv.ru | <http://cdn.ntv.ru/ntv4/playlist.m3u8> |
-| 9647 | НТВ +7 | cdn.ntv.ru | <http://cdn.ntv.ru/ntv7/playlist.m3u8> |
+| 9643 | НТВ | cdn.ntv.ru | <https://cdn.ntv.ru/ntv0/playlist.m3u8> |
+| 9644 | НТВ +1 | cdn.ntv.ru | <https://cdn.ntv.ru/ntv1/playlist.m3u8> |
+| 9645 | НТВ +2 | cdn.ntv.ru | <https://cdn.ntv.ru/ntv2/playlist.m3u8> |
+| 9646 | НТВ +4 | cdn.ntv.ru | <https://cdn.ntv.ru/ntv4/playlist.m3u8> |
+| 9647 | НТВ +7 | cdn.ntv.ru | <https://cdn.ntv.ru/ntv7/playlist.m3u8> |
 | 9648 | НТВ Мир | stream02.vnet.am | <http://stream02.vnet.am/HTB/mono.m3u8> |
-| 9649 | НТВ Право | cdn.ntv.ru | <http://cdn.ntv.ru/th_pravo/playlist.m3u8> |
-| 9650 | НТВ Сериал | cdn.ntv.ru | <http://cdn.ntv.ru/th_serial/playlist.m3u8> |
-| 9651 | НТВ Стиль | cdn.ntv.ru | <http://cdn.ntv.ru/th_hit/playlist.m3u8> |
-| 9652 | НТВ Хит | cdn.ntv.ru | <http://cdn.ntv.ru/th_style/playlist.m3u8> |
+| 9649 | НТВ Право | cdn.ntv.ru | <https://cdn.ntv.ru/th_pravo/playlist.m3u8> |
+| 9650 | НТВ Сериал | cdn.ntv.ru | <https://cdn.ntv.ru/th_serial/playlist.m3u8> |
+| 9651 | НТВ Стиль | cdn.ntv.ru | <https://cdn.ntv.ru/th_hit/playlist.m3u8> |
+| 9652 | НТВ Хит | cdn.ntv.ru | <https://cdn.ntv.ru/th_style/playlist.m3u8> |
 | 9653 | НТВ-Беларусь | IPv4 直链 | <http://82.209.197.187:8080/udp/239.0.100.6:1234> |
 | 9654 | НТК ТВ (1080p) [Not 24/7] | stream.ntktv.ua | <https://stream.ntktv.ua/s/ntk/ntk.m3u8> |
 | 9655 | НТМ (Народное телевидение Мордовии) (720p) [Not 24/7] | live-ntm13.cdnvideo.ru | <https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8> |
@@ -10286,4 +10286,4 @@
 | 10280 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 10281 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **Wed Jun 19 2024 22:12:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 20 2024 00:59:32 GMT+0000 (Coordinated Universal Time)**
